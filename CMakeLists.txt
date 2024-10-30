@@ -3,4 +3,6 @@ project(PracticeCoding2)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(PracticeCoding2 main.cpp)
+add_executable(PracticeCoding2 main.cpp
+        Book.cpp
+        book.hpp)
