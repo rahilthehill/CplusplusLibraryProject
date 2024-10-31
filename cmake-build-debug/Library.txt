@@ -1,0 +1,14 @@
+Library list
+_____________
+Title of book: First
+Author of book: First
+Year published: 3847
+*-*-*-*-*-*-*-*-*-*
+Title of book: Second
+Author of book: Second
+Year published: 3483
+*-*-*-*-*-*-*-*-*-*
+Title of book: Third
+Author of book: Third
+Year published: 3245
+*-*-*-*-*-*-*-*-*-*
