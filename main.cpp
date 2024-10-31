@@ -81,7 +81,8 @@ int main() {
                 * Catching/testing a exception code (testing code)
                 **/
             }
-            break;
+            break;//
+
             case 7:
                 break;
             case 8:

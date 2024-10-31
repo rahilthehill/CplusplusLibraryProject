@@ -82,7 +82,7 @@ void addBook(vector<Book>& books, int& bookAmt, const string& name) {
     int booksToAdd;
 
     cout << "How many books would you like to add to " << name << "? (Minimum 1)" << endl;
-    cin >> booksToAdd;
+    cin >> booksToAdd;//
     cin.ignore();
 
     bookAmt += booksToAdd;
@@ -102,7 +102,6 @@ void addBook(vector<Book>& books, int& bookAmt, const string& name) {
         cin >> books[i].year_published;
         cin.ignore(); // clears bugger before using getline
     };
-
 
     cout << "Thanks for adding your books!" << endl;
     cout << "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~" << endl;
